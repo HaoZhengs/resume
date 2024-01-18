@@ -1,11 +1,11 @@
 # resume
-[![Build](https://github.com/IoTcat/resume/actions/workflows/build.yml/badge.svg)](https://github.com/IoTcat/resume/actions/workflows/build.yml)
+[![Build](https://github.com/HaoZhengs/resume/actions/workflows/build.yml/badge.svg)](https://github.com/HaoZhengs/resume/actions/workflows/build.yml)
 
-Yimian Liu's Resume
+Hao Zheng's Resume
 
 # PDF Version
 
-[Yimian Liu's Resume](https://iotcat.github.io/resume/resume.pdf)
+[Hao Zheng's Resume](https://haozhengs.github.io/resume/resume.pdf)
 
 
 # Build
